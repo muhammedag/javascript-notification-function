@@ -8,9 +8,9 @@ Don't forget: if you want to send notification, you need a notification permissi
 + [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Notification)
 
 ## Installation
-
+````
 + git clone https://github.com/muhammedag/javascript-notification-function/
-
+````
 
 ## Usage
 ````
