@@ -9,7 +9,7 @@ Don't forget: if you want to send notification, you need a notification permissi
 
 ## Installation
 ````
-+ git clone https://github.com/muhammedag/javascript-notification-function/
+git clone https://github.com/muhammedag/javascript-notification-function/
 ````
 
 ## Usage
